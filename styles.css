@@ -115,6 +115,11 @@
     background-color: #003d80; /* Even darker blue when active */
   }
 
+#alert
+{
+    color: #d93025;
+}
+
 /* unvisited link */
 a:link {
     color: black;
